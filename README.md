@@ -82,8 +82,6 @@ cd /var/www/html/
 
 touch index.html
 
-rm -rf Apache.com/
-
 vim index.html
 ```
 
